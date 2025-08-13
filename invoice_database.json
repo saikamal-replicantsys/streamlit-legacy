@@ -1,0 +1,76 @@
+{
+  "invoices": {
+    "1234_Omega_Industries_Pvt._Ltd._invoice.pdf": {
+      "invoice_number": "INV7207",
+      "invoice_date": "2025-08-08",
+      "po_number": "1234",
+      "supplier_name": "Omega Industries Pvt. Ltd.",
+      "supplier_address": "123 Industrial Hub, Hyderabad, India",
+      "supplier_gstin_vat": null,
+      "supplier_email": null,
+      "bill_to": {
+        "name": "XYZ Industries",
+        "address": "Plot 456, Tech Park, Bangalore, India"
+      },
+      "ship_to": null,
+      "client_gstin_vat": null,
+      "payment_terms": "15 days",
+      "due_date": null,
+      "currency": "INR",
+      "subtotal_amount": 30492.25,
+      "tax_amount": 5488.6,
+      "total_amount": 35980.85,
+      "discount_amount": null,
+      "line_items": [
+        {
+          "item_code": "PN001",
+          "description": "Hydraulic Pump",
+          "quantity": 10,
+          "uom": null,
+          "unit_price": 2468.02,
+          "tax_rate": 18,
+          "tax_amount": null,
+          "total_price": 24680.2
+        },
+        {
+          "item_code": "PN002",
+          "description": "Pressure Gauge",
+          "quantity": 5,
+          "uom": null,
+          "unit_price": 1162.41,
+          "tax_rate": 18,
+          "tax_amount": null,
+          "total_price": 5812.05
+        }
+      ],
+      "notes": "Thank you for your business!",
+      "terms_conditions": [
+        "Please make the payment within 15 days."
+      ],
+      "confidence_score": 0.9,
+      "requires_review": false,
+      "missing_fields": [
+        "po_number",
+        "supplier_gstin_vat",
+        "supplier_email",
+        "client_gstin_vat",
+        "due_date",
+        "ship_to"
+      ],
+      "source_file": "Omega_Industries_Pvt._Ltd._invoice.pdf",
+      "success": true,
+      "email_subject": "Po 1234",
+      "sender": "Romil Pandya <romilpandya01@gmail.com>",
+      "email_date": "2025-08-11T12:04:01+05:30",
+      "filename": "Omega_Industries_Pvt._Ltd._invoice.pdf",
+      "processed_date": "2025-08-11T12:06:19.060164",
+      "invoice_key": "1234_Omega_Industries_Pvt._Ltd._invoice.pdf"
+    }
+  },
+  "metadata": {
+    "created_date": "2025-08-09T09:54:52.536325",
+    "version": "1.0",
+    "total_invoices": 1,
+    "last_updated": "2025-08-11T12:06:19.060188"
+  }
+}

@@ -1,0 +1,55 @@
+streamlit
+pandas
+numpy
+plotly
+streamlit-option-menu
+streamlit-lottie
+requests
+Pillow
+streamlit-extras 
+
+# Core FastAPI and async support
+fastapi
+uvicorn
+python-multipart
+aiofiles
+
+# Environment and configuration
+python-dotenv
+
+# AutoGen for LLM integration
+pyautogen
+
+# File parsing - Core libraries
+pandas
+openpyxl  # For Excel .xlsx files
+xlrd      # For Excel .xls files
+python-docx
+
+# PDF parsing
+pymupdf 
+
+
+# Data validation and models
+pydantic
+
+# Retry logic and error handling
+tenacity
+
+# Email integration (IMAP/SMTP) - Built into Python standard library
+# No additional dependencies needed for basic email functionality
+
+# Logging and monitoring
+structlog
+
+# Development and testing
+pytest
+pytest-asyncio
+pytest-cov
+black
+flake8
+mypy
+httpx
+autogen
+pyautogen[openai]
+openai

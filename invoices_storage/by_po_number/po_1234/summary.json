@@ -1,0 +1,16 @@
+{
+  "po_number": "1234",
+  "processed_date": "2025-08-11T12:06:38.266112",
+  "total_emails": 1,
+  "total_invoices": 1,
+  "invoices": [
+    {
+      "email_subject": "Po 1234",
+      "sender": "Romil Pandya <romilpandya01@gmail.com>",
+      "date": "2025-08-11T12:04:01+05:30",
+      "filename": "Omega_Industries_Pvt._Ltd._invoice.pdf",
+      "saved_path": "invoices_storage\\by_po_number\\po_1234\\Omega_Industries_Pvt._Ltd._invoice.pdf",
+      "size": 2405
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+# Email configuration (contains sensitive credentials)
+email_config.json
+
+# Legacy Gmail API files (if any)
+credentials.json
+token.pickle
+
+# Quotes storage (contains potentially sensitive data)
+quotes_storage/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
