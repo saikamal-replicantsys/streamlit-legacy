@@ -1,8 +1,6 @@
 # Email configuration (contains sensitive credentials)
-email_config.json
 
 # Legacy Gmail API files (if any)
-credentials.json
 token.pickle
 
 # Quotes storage (contains potentially sensitive data)
@@ -35,7 +33,6 @@ Thumbs.db
 *.log
 
 # Environment variables
-.env
 .env.local
 
 # Temporary files
